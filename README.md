@@ -16,7 +16,6 @@
     *  Building model
     *  Fine-tuning model
 * The result which is evaluated by three criterion is very descent.
-    * Metrics:
-        Character Error Rate: 0.046258110958333584
-        Word Error Rate:      0.1680945648048793
-        Sequence Error Rate:  0.8246575342465754
+    * Character Error Rate: 0.046258110958333584
+    * Word Error Rate:      0.1680945648048793
+    * Sequence Error Rate:  0.8246575342465754
